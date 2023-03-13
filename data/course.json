@@ -1,0 +1,31 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course1"
+  },
+  "course_title": "course1",
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "107",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "c70fa302-052e-4335-beb5-3fadff54ee8a",
+  "site_short_id": "course1"
+}
