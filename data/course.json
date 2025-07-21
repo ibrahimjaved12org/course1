@@ -1,6 +1,6 @@
 {
-  "term": "Summer",
-  "year": "2020",
+  "term": "Spring",
+  "year": "2022",
   "level": [
     "Undergraduate"
   ],
@@ -15,17 +15,17 @@
     "website": "course1"
   },
   "course_title": "course1",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "",
   "department_numbers": [
-    "2"
+    "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "107",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "course1"
-  },
-  "learning_resource_types": [],
-  "site_uid": "c70fa302-052e-4335-beb5-3fadff54ee8a",
+  "primary_course_number": "course1",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "8fd2811a-3768-46af-ad72-daf4530e7089",
   "site_short_id": "course1"
 }
